@@ -63,6 +63,9 @@ The plugin adds the following new components to Kirby 3:
 - In english and german language
 - Compatible with Kirby 3
 
+
+## Screenshot
+
 ![Kirby 3 Consent Gate Plugin Screenshot](https://github.com/fendinger/kirby3-consent-gate/raw/main/kirby3-consent-gate.png)
 
 
