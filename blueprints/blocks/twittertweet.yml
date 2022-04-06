@@ -1,0 +1,10 @@
+name:
+	en: Twitter Tweet
+	de: Twitter Tweet
+icon: twitter
+fields:
+	src:
+		label:
+			en: URL or code
+			de: URL oder Code
+		type: text

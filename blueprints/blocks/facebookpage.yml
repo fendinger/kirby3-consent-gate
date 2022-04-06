@@ -1,0 +1,10 @@
+name:
+	en: Facebook Page
+	de: Facebook Page
+icon: facebook
+fields:
+	src:
+		label:
+			en: URL or iFrame
+			de: URL oder iFrame
+		type: text

@@ -1,0 +1,12 @@
+{
+	"name": "fendinger/kirby-consent-gate",
+	"description": "Kirby 3 Consent Gate - GDPR Compliant External Content Blocker",
+	"version": "1.0.0",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Fendinger",
+			"email": "dev@fendinger.de"
+		}
+	]
+}
