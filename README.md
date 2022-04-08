@@ -63,15 +63,13 @@ The plugin adds the following new components to Kirby 3:
 - In english and german language
 - Compatible with Kirby 3
 
-
-## Screenshot
-
-![Kirby 3 Consent Gate Plugin Screenshot](https://github.com/fendinger/kirby3-consent-gate/raw/main/kirby3-consent-gate.png)
+![Kirby 3 Consent Gate Plugin Screenshot](https://github.com/fendinger/kirby3-consent-gate/raw/master/kirby3-consent-gate.png)
 
 
-## Setup
+## Installation
 
-``git clone https://github.com/fendinger/kirby3-consent-gate.git site/plugins/kirby3-consent-gate``
-From the root of your kirby 3 install.
+```
+$ composer require fendinger/kirby3-consent-gate
+```
 
-Alternatively you can download the zip file and extract the contents into site/plugins/kirby3-consent-gate.
+Alternatively, download and copy this repository to `/site/plugins/kirby3-consent-gate`
