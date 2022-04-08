@@ -1,12 +1,18 @@
 {
-	"name": "fendinger/kirby-consent-gate",
-	"description": "Kirby 3 Consent Gate - GDPR Compliant External Content Blocker",
-	"version": "1.0.0",
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "Fendinger",
-			"email": "dev@fendinger.de"
-		}
-	]
+  "name": "fendinger/kirby-consent-gate",
+  "description": "Kirby 3 Consent Gate - GDPR Compliant External Content Blocker",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fendinger",
+      "email": "dev@fendinger.de"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  },
+  "extra": {
+    "installer-name": "consent-gate"
+  }
 }
