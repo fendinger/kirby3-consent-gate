@@ -1,5 +1,16 @@
 # Kirby 3 Consent Gate - GDPR Compliant External Content Blocker
 
+⚠️ This repository is no longer maintained
+
+This plugin only supports Kirby 3. For newer Kirby versions, please use the updated plugin:
+
+👉 [fendinger/kirby-consent-gate](https://github.com/fendinger/kirby-consent-gate)
+
+No further updates, bug fixes, or security patches will be released for this repository.
+Existing Kirby 3 installations will continue to work, but migration to the new plugin is recommended.
+
+## Description
+
 This plugin for [Kirby CMS](https://getkirby.com) blocks the loading of conent from external sources. The content ist only loaded if a consent is accepted (GDPR compliant).
 
 After the user agreed to the loading, he can revoke his decision and the content will be blocked again.
